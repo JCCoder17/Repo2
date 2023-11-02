@@ -10,3 +10,5 @@ This is change #3.
 This is change #4.
 
 This is change #5.
+
+This is change #6 written on github.
